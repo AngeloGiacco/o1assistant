@@ -13,7 +13,7 @@
     "@prisma/adapter-pg": "^5.16.1",
     "@prisma/client": "^5.16.1",
     "@xata.io/cli": "^0.15.15",
-    "@xata.io/client": "^0.29.5",
+    "@xata.io/client": "^0.0.0-next.v64f10283eb9a098c575590d3ea17600e350321c9",
     "inngest": "^3.19.18",
     "next": "14.2.4",
     "openai": "^4.52.2",
